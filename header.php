@@ -28,7 +28,7 @@
 			<h1 class="header__title">Shuta Morishita<br>Portfolio</h1>
       <nav class="header__nav">
         <ul class="header__nav-list">
-          <li class="header__nav-item"><a href="#career-area" class="header__nav-link">経歴</a></li>
+          <li class="header__nav-item"><a href="#career-area" class="header__nav-link">test</a></li>
           <li class="header__nav-item"><a href="#skil-area" class="header__nav-link">スキル</a></li>
           <li class="header__nav-item"><a href="#work-cnt-area" class="header__nav-link">仕事内容</a></li>
           <li class="header__nav-item"><a href="#work-area" class="header__nav-link">作品</a></li>

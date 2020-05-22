@@ -1,0 +1,11 @@
+/* ------------------- footer ------------------- */
+.footer {
+  background: #080808;
+  padding: 40px 0;
+}
+
+.footer__copyright {
+  color: #fff;
+  font-size: 24px;
+  text-align: center;
+}
